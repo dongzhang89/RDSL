@@ -4,4 +4,5 @@ MATLAB implementat of
 
 Dong Zhang , Yunlian Sun, Qiaolin Ye, Jinhui Tang. Recursive Discriminative Subspace Learning with L1-norm Distance Constraint [J] IEEE Transactions on Cybernetics, 2019.
 
-Coming soon...
+The used datasets:
+https://github.com/ZHANGDONG-NJUST/Cars-and-CUB-VGG16-features
