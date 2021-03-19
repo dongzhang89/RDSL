@@ -6,7 +6,7 @@ In feature learning tasks, one of the most enormous challenges is to generate an
 
 ## The used datasets are available at:
 
-https://github.com/ZHANGDONG-NJUST/Cars-and-CUB-VGG16-features
+https://drive.google.com/drive/folders/1gwxa-CTNFyejdriuLCK4zaQ9eGCPfY4X
 
 ## Citation
 
